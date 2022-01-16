@@ -59,3 +59,5 @@ https://www.curseforge.com/minecraft/mc-mods/dashloader
 https://github.com/WearBlackAllDay/DimensionalThreading
 
 https://www.curseforge.com/minecraft/mc-mods/cloth-config
+
+https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
