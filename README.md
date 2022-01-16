@@ -39,3 +39,5 @@ https://www.curseforge.com/minecraft/mc-mods/tweakeroo
 https://www.curseforge.com/minecraft/mc-mods/clumps
 
 https://www.curseforge.com/minecraft/mc-mods/cull-leaves
+
+https://www.curseforge.com/minecraft/mc-mods/item-scroller
