@@ -41,3 +41,21 @@ https://www.curseforge.com/minecraft/mc-mods/clumps
 https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 
 https://www.curseforge.com/minecraft/mc-mods/item-scroller
+
+https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire
+
+https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric
+
+https://www.curseforge.com/minecraft/mc-mods/antighost
+
+https://www.curseforge.com/minecraft/mc-mods/smoke-suppression
+
+https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance
+
+https://github.com/RelativityMC/C2ME-fabric
+
+https://www.curseforge.com/minecraft/mc-mods/dashloader
+
+https://github.com/WearBlackAllDay/DimensionalThreading
+
+https://www.curseforge.com/minecraft/mc-mods/cloth-config
